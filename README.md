@@ -2,8 +2,6 @@
 ### AI-Powered Airbnb Trust & Price Intelligence  
 **Trust Before You Book**
 
----
-
 ## Overview
 
 Sniffbnb is an end-to-end Machine Learning application that analyzes Airbnb listings to:
@@ -14,8 +12,6 @@ Sniffbnb is an end-to-end Machine Learning application that analyzes Airbnb list
 - Provide an interactive web interface via **Streamlit**
 
 This project combines classification, regression, and explainability in a clean, deployment-ready ML pipeline.
-
----
 
 ## Machine Learning Architecture
 
@@ -42,8 +38,6 @@ This project combines classification, regression, and explainability in a clean,
   - Location (latitude & longitude)
   - Review rating
   - Availability ratio
-
----
 
 ## Explainability (SHAP Integration)
 
